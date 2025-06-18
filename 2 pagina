@@ -1,0 +1,1196 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  	<meta charset="utf-8">
+  	<meta name="viewport" content="initial-scale=1, width=device-width">
+  	
+  	<link rel="stylesheet"  href="./index.css" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind Guntur:wght@500&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@500&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hahmlet:wght@700&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hanuman:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Kaisei Tokumin:wght@700&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gayathri:wght@700&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Istok Web:wght@400;700&display=swap" />
+  	
+  	
+  	
+</head>
+<body>
+  	
+  	<div class="desktop-2">
+    		<img class="desktop-2-child" alt="" src="https://github.com/Camilasimoes1/istagi/blob/main/d6ff019144756c8c08229d2f09417b89ce57dd89.jpg?raw=true">
+    		
+    		<div class="kriar">Kriar</div>
+    		<div class="tm">TM</div>
+    		<div class="frame-parent">
+      			<div class="solues-wrapper">
+        				<div class="solues">Soluções +</div>
+      			</div>
+      			<div class="instance-parent">
+        				<div class="frame-wrapper">
+          					<div class="solues-container">
+            						<div class="solues1">Serviços ao cliente sob medida</div>
+          					</div>
+        				</div>
+        				<div class="frame-container">
+          					<div class="solues-container">
+            						<div class="solues1">Gêmeos digitais</div>
+          					</div>
+        				</div>
+        				<div class="frame-container">
+          					<div class="solues-container">
+            						<div class="solues1">Site espacial</div>
+          					</div>
+        				</div>
+        				<div class="frame-container">
+          					<div class="solues-container">
+            						<div class="solues1">Shopping virtual</div>
+          					</div>
+        				</div>
+        				<div class="frame-wrapper2">
+          					<div class="solues-container">
+            						<div class="solues1">Aprendizagem e treinamento</div>
+          					</div>
+        				</div>
+      			</div>
+    		</div>
+    		<div class="frame-group">
+      			<div class="recursos-wrapper">
+        				<div class="recursos">Recursos +</div>
+      			</div>
+      			<div class="instance-group">
+        				<div class="recursos-container">
+          					<div class="recursos1">Histórias de clientes</div>
+        				</div>
+        				<div class="recursos-frame">
+          					<div class="recursos1">Palestras da Istaging</div>
+        				</div>
+        				<div class="recursos-frame">
+          					<div class="recursos1">Blog</div>
+        				</div>
+        				<div class="recursos-wrapper2">
+          					<div class="recursos1">Espaço de mercado</div>
+        				</div>
+      			</div>
+    		</div>
+    		<div class="frame-parent1">
+      			<div class="empresa-wrapper">
+        				<div class="empresa">Empresa +</div>
+      			</div>
+      			<div class="instance-group">
+        				<div class="empresa-container">
+          					<div class="empresa1">Sobre Nós</div>
+        				</div>
+        				<div class="empresa-frame">
+          					<div class="empresa1">Fale Conosco</div>
+        				</div>
+        				<div class="empresa-wrapper1">
+          					<div class="empresa1">Vagas</div>
+        				</div>
+      			</div>
+    		</div>
+    		<div class="component-2">
+      			<div class="planos">Planos</div>
+    		</div>
+    		<div class="frame-parent2">
+      			<div class="log-in-wrapper">
+        				<div class="log-in">Log in +</div>
+      			</div>
+      			<div class="instance-group">
+        				<div class="log-in-container">
+          					<div class="log-in1">VR Maker</div>
+        				</div>
+        				<div class="log-in-frame">
+          					<div class="log-in1">METAMakeR</div>
+        				</div>
+        				<div class="log-in-wrapper1">
+          					<div class="log-in1">AR Maker</div>
+        				</div>
+      			</div>
+    		</div>
+    		<div class="desktop-2-item">
+    		</div>
+    		<b class="criando-exclusividade-com">Criando exclusividade com serviços personalizados ao cliente</b>
+    		<div class="component-5">
+      			<div class="component-5-child">
+      			</div>
+      			<div class="agende-uma-demonstrao">Agende uma demonstração</div>
+    		</div>
+    		<div class="redefinindo-a-excelncia">Redefinindo a excelência a qualquer hora, em qualquer lugar.</div>
+    		<img class="desktop-2-inner" alt="" src="https://github.com/Camilasimoes1/istagi/blob/main/e8998d99bf7637dc3f9463ebe7382d0e4bf801a6.jpg?raw=true">
+    		
+    		<div class="rectangle-div">
+    		</div>
+    		<img class="rectangle-icon" alt="" src="https://github.com/Camilasimoes1/istagi/blob/main/82b81548d0eab0f36f9a7421eacae141b0a593a7.png?raw=true">
+    		
+    		<b class="como-marcas-de">Como marcas de luxo como a Louis Vuitton aumentaram a receita em eventos VIC com o iStaging</b>
+    		<div class="desktop-2-child1">
+    		</div>
+    		<div class="tm1">TM</div>
+    		<div class="solues6">Soluções</div>
+    		<div class="istaging">iStaging</div>
+    		<div class="servios-ao-cliente">Serviços ao cliente sob medida</div>
+    		<div class="gmeos-digitais">Gêmeos digitais</div>
+    		<div class="site-espacial">Site espacial</div>
+    		<div class="shopping-virtual">Shopping virtual</div>
+    		<div class="aprendizagem-e-treinamento">Aprendizagem e treinamento </div>
+    		<div class="recursos5">Recursos</div>
+    		<div class="histrias-de-clientes">Histórias de clientes</div>
+    		<div class="palestras-da-istaging">Palestras da Istaging</div>
+    		<div class="blog">Blog</div>
+    		<div class="espa-de-mercado">Espaçõ de mercado</div>
+    		<div class="companhia">Companhia</div>
+    		<div class="sobre-ns">Sobre Nós</div>
+    		<div class="fale-conosco">Fale conosco</div>
+    		<div class="vagas">Vagas</div>
+    		<div class="line-div">
+    		</div>
+    		<div class="desktop-2-child2">
+    		</div>
+    		<div class="frame-parent3">
+      			<div class="portugus-wrapper">
+        				<div class="portugus">Português</div>
+      			</div>
+      			<div class="instance-wrapper">
+        				<div class="portugus-container">
+          					<div class="portugus1">Español</div>
+        				</div>
+      			</div>
+    		</div>
+    		<div class="perguntas-frequentes">Perguntas Frequentes</div>
+    		<div class="quanto-tempo-leva-container">
+      			<p class="quanto-tempo-leva">Quanto tempo leva para criar um tour virtual/ambiente virtual?</p>
+      			<p class="tipicamente-1-3-dias">Tipicamente 1-3 dias. A filmagem pode ser feita em até 2 horas (para até 30 panoramas). O pós-processamento panorâmico e a edição de conteúdo diferem com base na natureza do conteúdo que você decide adicionar ao tour virtual.</p>
+    		</div>
+    		<div class="como-posso-editar-container">
+      			<p class="quanto-tempo-leva">Como posso editar o conteúdo?</p>
+      			<p class="tipicamente-1-3-dias">Com a plataforma de arrastar e soltar do iStaging, você pode editar facilmente seu espaço virtual. Também forneceremos uma sessão de integração para garantir que você comece bem! Não se preocupe - é fácil, fácil de usar e intuitivo!</p>
+    		</div>
+    		<div class="como-fao-para-container">
+      			<p class="quanto-tempo-leva">Como faço para criar reservas e hospedar sessões com clientes?</p>
+      			<p class="tipicamente-1-3-dias">É tão fácil quanto compartilhar um link com seus clientes! O iStaging fornecerá uma sessão de integração para você e sua equipe sobre como usar nossa plataforma. Você vai pegar o jeito em pouco tempo!</p>
+    		</div>
+    		<div class="quanto-tempo-pode-container">
+      			<p class="quanto-tempo-leva">Quanto tempo pode durar cada sessão?</p>
+      			<p class="tipicamente-1-3-dias">Não há limite para a duração de seus compromissos virtuais. Pode ser 30, 60, 90 minutos ou mais. Você pode facilmente adicionar mais minutos à sua assinatura para acomodar seus requisitos à medida que eles evoluem.</p>
+    		</div>
+    		<div class="as-informaes-pessoais-container">
+      			<p class="quanto-tempo-leva">As informações pessoais e o histórico são mantidos confidenciais e seguros?</p>
+      			<p class="tipicamente-1-3-dias">Absolutamente! Manter a confidencialidade é uma pedra angular do nosso negócio e uma prioridade máxima. Projetamos nossos produtos e serviços para proteger todas as informações pessoais.</p>
+    		</div>
+    		<b class="agende-uma-demostrao">AGENDE UMA DEMOSTRAÇÃO</b>
+    		<div class="pronto-para-ver">Pronto para ver o poder transformador das soluções da iStaging em ação para você?</div>
+    		<div class="component-7">
+      			<div class="component-5-child">
+      			</div>
+      			<div class="agende-uma-demonstrao1">Agende uma demonstração</div>
+    		</div>
+    		<img class="desktop-2-child3" alt="" src="https://github.com/Camilasimoes1/istagi/blob/main/e9bed8f037894c3c2e49d07df7ad4e7738321837.jpg?raw=true">
+    		
+    		<img class="desktop-2-child4" alt="" src="https://github.com/Camilasimoes1/istagi/blob/main/018e821c34bebac762888f27d7a05ca095978607.jpg?raw=true">
+    		
+    		<img class="desktop-2-child5" alt="" src="https://github.com/Camilasimoes1/istagi/blob/main/e92ed272a9a6a311c0c713807d6b11a3d1049b76.png?raw=true">
+    		
+    		<div class="component-13">
+      			<div class="component-13-child">
+      			</div>
+      			<div class="experincia-personalizada-ofer-container">
+        				<span class="experincia-personalizada-ofer-container1">
+          					<p class="quanto-tempo-leva">
+            						<b>Experiência personalizada</b>
+          					</p>
+          					<p class="quanto-tempo-leva">Ofereça aos clientes uma sessão virtual individual exclusiva para uma experiência personalizada com recomendações personalizadas.</p>
+        				</span>
+      			</div>
+    		</div>
+    		<div class="component-19">
+      			<div class="component-13-child">
+      			</div>
+      			<div class="convenincia-e-acessibilidade-container">
+        				<span class="experincia-personalizada-ofer-container1">
+          					<p class="quanto-tempo-leva">
+            						<b>Conveniência e Acessibilidade</b>
+          					</p>
+          					<p class="quanto-tempo-leva">Permita que seus clientes aproveitem os benefícios do tratamento VIC de qualquer lugar do mundo por meio de um link URL instantaneamente acessível.</p>
+        				</span>
+      			</div>
+    		</div>
+    		<div class="component-22">
+      			<div class="component-13-child">
+      			</div>
+      			<div class="privacidade-exclusividade-container">
+        				<span class="experincia-personalizada-ofer-container1">
+          					<p class="quanto-tempo-leva">
+            						<b>Privacidade & Exclusividade</b>
+          					</p>
+          					<p class="quanto-tempo-leva">
+            						<b>
+</b>
+            						<span>Mantenha a máxima discrição e privacidade durante cada sessão. Proteja as necessidades e preferências de cada cliente com o mais alto nível de confidencialidade</span>
+          					</p>
+        				</span>
+      			</div>
+    		</div>
+  	</div>
+  	
+  	<style>
+		.desktop-2-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 1523px;
+  	height: 974px;
+  	object-fit: cover;
+}
+.kriar {
+  	position: absolute;
+  	top: 75px;
+  	left: 153px;
+  	font-size: 48px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	font-family: 'Hind Guntur';
+  	display: flex;
+  	align-items: center;
+  	width: 113px;
+  	height: 39px;
+}
+.tm {
+  	position: absolute;
+  	top: 55px;
+  	left: 266px;
+  	font-size: 15px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+}
+.solues {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 203px;
+}
+.solues-wrapper {
+  	width: 221px;
+  	position: relative;
+  	height: 45px;
+}
+.solues1 {
+  	position: relative;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+}
+.solues-container {
+  	align-self: stretch;
+  	height: 57px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+}
+.frame-wrapper {
+  	align-self: stretch;
+  	border-radius: 8px 8px 0px 0px;
+  	background-color: #fff;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: center;
+  	padding: 6px 0px 6px 26px;
+}
+.frame-container {
+  	align-self: stretch;
+  	background-color: #fff;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: center;
+  	padding: 6px 0px 6px 26px;
+  	margin-top: -100px;
+  	position: relative;
+}
+.frame-wrapper2 {
+  	align-self: stretch;
+  	border-radius: 0px 0px 8px 8px;
+  	background-color: #fff;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: center;
+  	padding: 6px 0px 6px 26px;
+  	margin-top: -100px;
+  	position: relative;
+}
+.instance-parent {
+  	align-self: stretch;
+  	height: 69px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	opacity: 0;
+  	color: #000;
+}
+.frame-parent {
+  	position: absolute;
+  	top: 71px;
+  	left: 309px;
+  	width: 122px;
+  	height: 35px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 17px;
+  	font-size: 24px;
+  	font-family: 'Hind Guntur';
+}
+.recursos {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 141px;
+  	height: 56px;
+}
+.recursos-wrapper {
+  	width: 141px;
+  	position: relative;
+  	height: 56px;
+}
+.recursos1 {
+  	width: 248px;
+  	position: relative;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	height: 67px;
+  	flex-shrink: 0;
+}
+.recursos-container {
+  	align-self: stretch;
+  	border-radius: 8px 8px 0px 0px;
+  	background-color: #fff;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 0px 0px 0px 12px;
+}
+.recursos-frame {
+  	align-self: stretch;
+  	background-color: #fff;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 0px 0px 0px 12px;
+  	margin-top: -100px;
+  	position: relative;
+}
+.recursos-wrapper2 {
+  	align-self: stretch;
+  	border-radius: 0px 0px 8px 8px;
+  	background-color: #fff;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 0px 0px 0px 12px;
+  	margin-top: -100px;
+  	position: relative;
+}
+.instance-group {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	opacity: 0;
+  	color: #000;
+}
+.frame-group {
+  	position: absolute;
+  	top: 63px;
+  	left: 491px;
+  	width: 118px;
+  	height: 38px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 4px;
+  	font-size: 24px;
+  	font-family: 'Hind Guntur';
+}
+.empresa {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 128px;
+}
+.empresa-wrapper {
+  	width: 128px;
+  	position: relative;
+  	height: 45px;
+}
+.empresa1 {
+  	width: 244px;
+  	position: relative;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	flex-shrink: 0;
+}
+.empresa-container {
+  	align-self: stretch;
+  	border-radius: 8px 8px 0px 0px;
+  	background-color: #fff;
+  	height: 71px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 0px 12px;
+  	box-sizing: border-box;
+}
+.empresa-frame {
+  	align-self: stretch;
+  	background-color: #fff;
+  	height: 71px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 0px 12px;
+  	box-sizing: border-box;
+  	margin-top: -100px;
+  	position: relative;
+}
+.empresa-wrapper1 {
+  	align-self: stretch;
+  	border-radius: 0px 0px 8px 8px;
+  	background-color: #fff;
+  	height: 71px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 0px 12px;
+  	box-sizing: border-box;
+  	margin-top: -100px;
+  	position: relative;
+}
+.frame-parent1 {
+  	position: absolute;
+  	top: 68px;
+  	left: 669px;
+  	width: 121px;
+  	height: 45px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 23px;
+  	font-size: 24px;
+  	font-family: 'Hind Guntur';
+}
+.planos {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	left: 0%;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+}
+.component-2 {
+  	position: absolute;
+  	top: 68px;
+  	left: 1072px;
+  	width: 70px;
+  	height: 44px;
+  	font-size: 24px;
+  	font-family: 'Hind Guntur';
+}
+.log-in {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 134px;
+  	height: 43px;
+}
+.log-in-wrapper {
+  	width: 134px;
+  	position: relative;
+  	height: 43px;
+}
+.log-in1 {
+  	width: 252px;
+  	position: relative;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	height: 73px;
+  	flex-shrink: 0;
+}
+.log-in-container {
+  	align-self: stretch;
+  	border-radius: 8px 8px 0px 0px;
+  	background-color: #fff;
+  	height: 73px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 0px 14px;
+  	box-sizing: border-box;
+}
+.log-in-frame {
+  	align-self: stretch;
+  	background-color: #fff;
+  	height: 73px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 0px 14px;
+  	box-sizing: border-box;
+  	margin-top: -100px;
+  	position: relative;
+}
+.log-in-wrapper1 {
+  	align-self: stretch;
+  	border-radius: 0px 0px 8px 8px;
+  	background-color: #fff;
+  	height: 73px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 0px 14px;
+  	box-sizing: border-box;
+  	margin-top: -100px;
+  	position: relative;
+}
+.frame-parent2 {
+  	position: absolute;
+  	top: 68px;
+  	left: 1218px;
+  	width: 93px;
+  	height: 34px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 17px;
+  	font-size: 24px;
+  	font-family: 'Hind Guntur';
+}
+.desktop-2-item {
+  	position: absolute;
+  	top: 124px;
+  	left: 153px;
+  	border-top: 2px solid rgba(255, 255, 255, 0.36);
+  	box-sizing: border-box;
+  	width: 1196px;
+  	height: 2px;
+}
+.criando-exclusividade-com {
+  	position: absolute;
+  	top: 273px;
+  	left: 131px;
+  	font-size: 84px;
+  	letter-spacing: 0.01em;
+  	display: inline-block;
+  	font-family: Hahmlet;
+  	width: 1164px;
+}
+.component-5-child {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	border-radius: 18px;
+  	background-color: #000;
+}
+.agende-uma-demonstrao {
+  	position: absolute;
+  	top: 21.41%;
+  	left: 9%;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+}
+.component-5 {
+  	position: absolute;
+  	top: 682px;
+  	left: 128px;
+  	border-radius: 18px;
+  	border: 3px solid #fff;
+  	box-sizing: border-box;
+  	width: 306px;
+  	height: 68px;
+  	font-family: 'Hind Guntur';
+}
+.redefinindo-a-excelncia {
+  	position: absolute;
+  	top: 1040px;
+  	left: 244px;
+  	font-size: 48px;
+  	letter-spacing: 0.01em;
+  	font-family: Hanuman;
+  	color: #000;
+  	text-align: center;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 1093px;
+  	height: 120px;
+}
+.desktop-2-inner {
+  	position: absolute;
+  	top: 2431px;
+  	left: -42px;
+  	width: 1567px;
+  	height: 1619px;
+  	object-fit: cover;
+}
+.rectangle-div {
+  	position: absolute;
+  	top: 2431px;
+  	left: 0px;
+  	background-color: rgba(0, 0, 0, 0.61);
+  	width: 1525px;
+  	height: 2459px;
+}
+.rectangle-icon {
+  	position: absolute;
+  	top: 2719px;
+  	left: 159px;
+  	border-radius: 20px;
+  	width: 1252px;
+  	height: 706px;
+  	object-fit: cover;
+}
+.como-marcas-de {
+  	position: absolute;
+  	top: 2538px;
+  	left: 166px;
+  	font-size: 40px;
+  	letter-spacing: 0.01em;
+  	display: inline-block;
+  	font-family: 'Kaisei Tokumin';
+  	text-align: center;
+  	width: 1200px;
+  	height: 124px;
+}
+.desktop-2-child1 {
+  	position: absolute;
+  	top: 4890px;
+  	left: 0px;
+  	background-color: #1f2123;
+  	width: 1523px;
+  	height: 632px;
+}
+.tm1 {
+  	position: absolute;
+  	top: 4941px;
+  	left: 220px;
+  	font-size: 15px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 22px;
+}
+.solues6 {
+  	position: absolute;
+  	top: 5028px;
+  	left: 50px;
+  	font-size: 32px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 128px;
+}
+.istaging {
+  	position: absolute;
+  	top: 4941px;
+  	left: 34px;
+  	font-size: 48px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	font-family: 'Hind Guntur';
+  	display: flex;
+  	align-items: center;
+  	width: 176px;
+  	height: 66px;
+}
+.servios-ao-cliente {
+  	position: absolute;
+  	top: 5089px;
+  	left: 50px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 278px;
+}
+.gmeos-digitais {
+  	position: absolute;
+  	top: 5133px;
+  	left: 50px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 144px;
+}
+.site-espacial {
+  	position: absolute;
+  	top: 5177px;
+  	left: 50px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 112px;
+}
+.shopping-virtual {
+  	position: absolute;
+  	top: 5221px;
+  	left: 50px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 149px;
+}
+.aprendizagem-e-treinamento {
+  	position: absolute;
+  	top: 5265px;
+  	left: 50px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 265px;
+}
+.recursos5 {
+  	position: absolute;
+  	top: 5028px;
+  	left: 409px;
+  	font-size: 32px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 128px;
+}
+.histrias-de-clientes {
+  	position: absolute;
+  	top: 5089px;
+  	left: 409px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 182px;
+}
+.palestras-da-istaging {
+  	position: absolute;
+  	top: 5133px;
+  	left: 409px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 186px;
+}
+.blog {
+  	position: absolute;
+  	top: 5177px;
+  	left: 409px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 41px;
+}
+.espa-de-mercado {
+  	position: absolute;
+  	top: 5221px;
+  	left: 409px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 176px;
+}
+.companhia {
+  	position: absolute;
+  	top: 5028px;
+  	left: 649px;
+  	font-size: 32px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 163px;
+}
+.sobre-ns {
+  	position: absolute;
+  	top: 5089px;
+  	left: 649px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 92px;
+}
+.fale-conosco {
+  	position: absolute;
+  	top: 5133px;
+  	left: 649px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 117px;
+}
+.vagas {
+  	position: absolute;
+  	top: 5177px;
+  	left: 649px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 55px;
+}
+.line-div {
+  	position: absolute;
+  	top: 5353px;
+  	left: 119px;
+  	border-top: 2px solid rgba(255, 255, 255, 0.36);
+  	box-sizing: border-box;
+  	width: 1214px;
+  	height: 2px;
+}
+.desktop-2-child2 {
+  	position: absolute;
+  	top: 4967px;
+  	left: 1213px;
+  	border-radius: 13px;
+  	background-color: #000;
+  	border: 1px solid #fff;
+  	box-sizing: border-box;
+  	width: 188px;
+  	height: 57px;
+}
+.portugus {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+}
+.portugus-wrapper {
+  	width: 109px;
+  	position: relative;
+  	height: 38px;
+}
+.portugus1 {
+  	position: relative;
+  	letter-spacing: 0.02em;
+  	line-height: 160.01%;
+  	font-weight: 500;
+}
+.portugus-container {
+  	align-self: stretch;
+  	border-radius: 0px 0px 14px 14px;
+  	background-color: rgba(11, 11, 11, 0.94);
+  	height: 53px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 0px 0px 0px 12px;
+  	box-sizing: border-box;
+}
+.instance-wrapper {
+  	width: 5px;
+  	height: 4px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 10px 5px 0px;
+  	box-sizing: border-box;
+  	opacity: 0;
+}
+.frame-parent3 {
+  	position: absolute;
+  	top: 4980px;
+  	left: 1252px;
+  	width: 110px;
+  	height: 32px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	font-size: 24px;
+}
+.perguntas-frequentes {
+  	position: absolute;
+  	top: 3482px;
+  	left: 162px;
+  	font-size: 36px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	font-family: 'Hind Guntur';
+}
+.quanto-tempo-leva {
+  	margin: 0;
+}
+.tipicamente-1-3-dias {
+  	margin: 0;
+  	font-size: 24px;
+}
+.quanto-tempo-leva-container {
+  	position: absolute;
+  	top: 3565px;
+  	left: 164px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	font-family: 'Hind Guntur';
+  	display: inline-block;
+  	width: 941px;
+  	height: 337px;
+  	font-size: 32px;
+}
+.como-posso-editar-container {
+  	position: absolute;
+  	top: 3764px;
+  	left: 164px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	font-family: 'Hind Guntur';
+  	display: inline-block;
+  	width: 998px;
+  	height: 184px;
+  	font-size: 32px;
+}
+.como-fao-para-container {
+  	position: absolute;
+  	top: 3969px;
+  	left: 159px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	font-family: 'Hind Guntur';
+  	display: inline-block;
+  	width: 937px;
+  	height: 184px;
+  	font-size: 32px;
+}
+.quanto-tempo-pode-container {
+  	position: absolute;
+  	top: 4173px;
+  	left: 159px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	font-family: 'Hind Guntur';
+  	display: inline-block;
+  	width: 970px;
+  	height: 172px;
+  	font-size: 32px;
+}
+.as-informaes-pessoais-container {
+  	position: absolute;
+  	top: 4382px;
+  	left: 159px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	font-family: 'Hind Guntur';
+  	display: inline-block;
+  	width: 1081px;
+  	height: 235px;
+  	font-size: 32px;
+}
+.agende-uma-demostrao {
+  	position: absolute;
+  	top: 4603px;
+  	left: 417px;
+  	font-size: 40px;
+  	letter-spacing: 0.01em;
+  	font-family: Gayathri;
+}
+.pronto-para-ver {
+  	position: absolute;
+  	top: 4652px;
+  	left: 271px;
+  	font-size: 24px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	font-family: 'Hind Guntur';
+  	text-align: center;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 911px;
+}
+.agende-uma-demonstrao1 {
+  	position: absolute;
+  	top: 24.64%;
+  	left: 9%;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+}
+.component-7 {
+  	position: absolute;
+  	top: 4742px;
+  	left: 570px;
+  	border-radius: 18px;
+  	border: 3px solid #fff;
+  	box-sizing: border-box;
+  	width: 306px;
+  	height: 75px;
+  	font-family: 'Hind Guntur';
+}
+.desktop-2-child3 {
+  	position: absolute;
+  	top: 1260px;
+  	left: 103px;
+  	width: 663px;
+  	height: 330px;
+  	object-fit: cover;
+}
+.desktop-2-child4 {
+  	position: absolute;
+  	top: 1590px;
+  	left: 769px;
+  	width: 663px;
+  	height: 331px;
+  	object-fit: cover;
+}
+.desktop-2-child5 {
+  	position: absolute;
+  	top: 1921px;
+  	left: 103px;
+  	width: 663px;
+  	height: 330px;
+  	object-fit: cover;
+}
+.component-13-child {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	background-color: rgba(0, 0, 0, 0.68);
+}
+.experincia-personalizada-ofer-container1 {
+  	width: 100%;
+}
+.experincia-personalizada-ofer-container {
+  	position: absolute;
+  	height: 88.48%;
+  	width: 93.59%;
+  	top: 3.9%;
+  	left: 3.14%;
+  	letter-spacing: 0.01em;
+  	display: flex;
+  	align-items: center;
+}
+.component-13 {
+  	position: absolute;
+  	top: 1260px;
+  	left: 766px;
+  	width: 666px;
+  	height: 330px;
+  	text-align: center;
+  	font-family: 'Istok Web';
+}
+.convenincia-e-acessibilidade-container {
+  	position: absolute;
+  	height: 78.13%;
+  	width: 92.31%;
+  	top: 10.85%;
+  	left: 3.84%;
+  	letter-spacing: 0.01em;
+  	display: flex;
+  	align-items: center;
+}
+.component-19 {
+  	position: absolute;
+  	top: 1590px;
+  	left: 103px;
+  	width: 666px;
+  	height: 331px;
+  	text-align: center;
+  	font-family: 'Istok Web';
+}
+.privacidade-exclusividade-container {
+  	position: absolute;
+  	height: 76.94%;
+  	width: 87.52%;
+  	top: 4.75%;
+  	left: 6.17%;
+  	letter-spacing: 0.01em;
+  	display: flex;
+  	align-items: center;
+}
+.component-22 {
+  	position: absolute;
+  	top: 1921px;
+  	left: 766px;
+  	width: 666px;
+  	height: 330px;
+  	text-align: center;
+  	font-family: 'Istok Web';
+}
+.desktop-2 {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fff;
+  	height: 5522px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 20px;
+  	color: #fff;
+  	font-family: Hind;
+}
+
+
+	</style>
+  	
+  	
+</body>
+</html>
