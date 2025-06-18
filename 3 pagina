@@ -1,0 +1,1160 @@
+<!DOCTYPE html>
+<html>
+<head>
+  	<meta charset="utf-8">
+  	<meta name="viewport" content="initial-scale=1, width=device-width">
+  	
+  	<link rel="stylesheet"  href="./index.css" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind Guntur:wght@500&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@500&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hahmlet:wght@700&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hanuman:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Kaisei Tokumin:wght@700&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gayathri:wght@700&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Istok Web:wght@400;700&display=swap" />
+  	
+  	
+  	
+</head>
+<body>
+  	
+  	<div class="desktop-3">
+    		<img class="desktop-3-child" alt="" src="https://github.com/Camilasimoes1/istagi/blob/main/533544fe4d5c67136083045f1863b776bceb0192.jpg?raw=true">
+    		
+    		<div class="kriar">Kriar</div>
+    		<div class="tm">TM</div>
+    		<div class="frame-parent">
+      			<div class="solues-wrapper">
+        				<div class="solues">Soluções +</div>
+      			</div>
+      			<div class="instance-parent">
+        				<div class="frame-wrapper">
+          					<div class="solues-container">
+            						<div class="solues1">Serviços ao cliente sob medida</div>
+          					</div>
+        				</div>
+        				<div class="frame-container">
+          					<div class="solues-container">
+            						<div class="solues1">Gêmeos digitais</div>
+          					</div>
+        				</div>
+        				<div class="frame-container">
+          					<div class="solues-container">
+            						<div class="solues1">Site espacial</div>
+          					</div>
+        				</div>
+        				<div class="frame-container">
+          					<div class="solues-container">
+            						<div class="solues1">Shopping virtual</div>
+          					</div>
+        				</div>
+        				<div class="frame-wrapper2">
+          					<div class="solues-container">
+            						<div class="solues1">Aprendizagem e treinamento</div>
+          					</div>
+        				</div>
+      			</div>
+    		</div>
+    		<div class="frame-group">
+      			<div class="recursos-wrapper">
+        				<div class="recursos">Recursos +</div>
+      			</div>
+      			<div class="instance-group">
+        				<div class="recursos-container">
+          					<div class="recursos1">Histórias de clientes</div>
+        				</div>
+        				<div class="recursos-frame">
+          					<div class="recursos1">Palestras da Istaging</div>
+        				</div>
+        				<div class="recursos-frame">
+          					<div class="recursos1">Blog</div>
+        				</div>
+        				<div class="recursos-wrapper2">
+          					<div class="recursos1">Espaço de mercado</div>
+        				</div>
+      			</div>
+    		</div>
+    		<div class="frame-parent1">
+      			<div class="empresa-wrapper">
+        				<div class="empresa">Empresa +</div>
+      			</div>
+      			<div class="instance-group">
+        				<div class="empresa-container">
+          					<div class="empresa1">Sobre Nós</div>
+        				</div>
+        				<div class="empresa-frame">
+          					<div class="empresa1">Fale Conosco</div>
+        				</div>
+        				<div class="empresa-wrapper1">
+          					<div class="empresa1">Vagas</div>
+        				</div>
+      			</div>
+    		</div>
+    		<div class="component-2">
+      			<div class="planos">Planos</div>
+    		</div>
+    		<div class="frame-parent2">
+      			<div class="log-in-wrapper">
+        				<div class="log-in">Log in +</div>
+      			</div>
+      			<div class="instance-group">
+        				<div class="log-in-container">
+          					<div class="log-in1">VR Maker</div>
+        				</div>
+        				<div class="log-in-frame">
+          					<div class="log-in1">METAMakeR</div>
+        				</div>
+        				<div class="log-in-wrapper1">
+          					<div class="log-in1">AR Maker</div>
+        				</div>
+      			</div>
+    		</div>
+    		<div class="desktop-3-item">
+    		</div>
+    		<b class="transformando-negcios-com">Transformando negócios com gêmeos digitais</b>
+    		<div class="component-5">
+      			<div class="component-5-child">
+      			</div>
+      			<div class="agende-uma-demonstrao">Agende uma demonstração</div>
+    		</div>
+    		<div class="experincias-virtuais-enriquec">Experiências Virtuais Enriquecedoras</div>
+    		<img class="desktop-3-inner" alt="" src="https://github.com/Camilasimoes1/istagi/blob/main/e8998d99bf7637dc3f9463ebe7382d0e4bf801a6.jpg?raw=true">
+    		
+    		<div class="rectangle-div">
+    		</div>
+    		<img class="rectangle-icon" alt="" src="https://github.com/Camilasimoes1/istagi/blob/main/eae668f5cc030379e6de4bdcc6b3c8143b5f7449.png?raw=true">
+    		
+    		<b class="como-este-smart">Como este Smart Luxury Hotel Redefiniu a Viagem Através da Inovação VR 360</b>
+    		<div class="desktop-3-child1">
+    		</div>
+    		<div class="tm1">TM</div>
+    		<div class="solues6">Soluções</div>
+    		<div class="istaging">iStaging</div>
+    		<div class="servios-ao-cliente">Serviços ao cliente sob medida</div>
+    		<div class="gmeos-digitais">Gêmeos digitais</div>
+    		<div class="site-espacial">Site espacial</div>
+    		<div class="shopping-virtual">Shopping virtual</div>
+    		<div class="aprendizagem-e-treinamento">Aprendizagem e treinamento </div>
+    		<div class="recursos5">Recursos</div>
+    		<div class="histrias-de-clientes">Histórias de clientes</div>
+    		<div class="palestras-da-istaging">Palestras da Istaging</div>
+    		<div class="blog">Blog</div>
+    		<div class="espa-de-mercado">Espaçõ de mercado</div>
+    		<div class="companhia">Companhia</div>
+    		<div class="sobre-ns">Sobre Nós</div>
+    		<div class="fale-conosco">Fale conosco</div>
+    		<div class="vagas">Vagas</div>
+    		<div class="line-div">
+    		</div>
+    		<div class="desktop-3-child2">
+    		</div>
+    		<div class="frame-parent3">
+      			<div class="portugus-wrapper">
+        				<div class="portugus">Português</div>
+      			</div>
+      			<div class="instance-wrapper">
+        				<div class="portugus-container">
+          					<div class="portugus1">Español</div>
+        				</div>
+      			</div>
+    		</div>
+    		<b class="agende-uma-demostrao">AGENDE UMA DEMOSTRAÇÃO</b>
+    		<div class="pronto-para-ver">Pronto para ver o poder transformador das soluções da iStaging em ação para você?</div>
+    		<div class="component-7">
+      			<div class="component-5-child">
+      			</div>
+      			<div class="agende-uma-demonstrao1">Agende uma demonstração</div>
+    		</div>
+    		<div class="perguntas-frequentes">Perguntas Frequentes</div>
+    		<div class="o-que-posso">O que posso transformar em um gêmeo digital / tour virtual?</div>
+    		<div class="quanto-tempo-leva">Quanto tempo leva para criar um tour virtual?</div>
+    		<div class="que-tipo-de">Que tipo de conteúdo visual posso incluir no tour virtual?</div>
+    		<div class="como-posso-editar">Como posso editar o conteúdo?</div>
+    		<div class="tudo-pode-ser">Tudo pode ser personalizado para combinar com a estética única da nossa marca?</div>
+    		
+			<img class="desktop-3-child3" alt="" src="https://github.com/Camilasimoes1/istagi/blob/main/32df33a419babfed3b29829b1fb05ae609789a9f.png?raw=true">
+    		
+    		<img class="desktop-3-child4" alt="" src="https://github.com/Camilasimoes1/istagi/blob/main/13d69cfc73a3a71e1897703b3b5d11862d07b913.jpg?raw=true">
+    		
+    		<img class="desktop-3-child5" alt="" src="https://github.com/Camilasimoes1/istagi/blob/main/e3c3d4dedd54cecfa8047b5a3fa553336977afbb.png?raw=true">
+    		
+    		<div class="component-16">
+      			<div class="component-16-child">
+      			</div>
+      			<div class="compras-virtuais-perfeitas-container">
+        				<span class="compras-virtuais-perfeitas-container1">
+          					<p class="alcance-global">
+            						<b>Alcance Global</b>
+          					</p>
+          					<p class="alcance-global">Transcenda fronteiras geográficas, expanda seu alcance e ofereça aos clientes em todo o mundo acesso ao seu negócio.</p>
+        				</span>
+      			</div>
+    		</div>
+    		<div class="component-19">
+      			<div class="component-16-child">
+      			</div>
+      			<div class="convenincia-e-acessibilidade-container">
+        				<span class="compras-virtuais-perfeitas-container1">
+          					<p class="alcance-global">
+            						<b>Showcase Spaces e Produtos Virtualmente</b>
+          					</p>
+          					<p class="alcance-global">Permita que os clientes naveguem virtualmente por sua localização física, produtos e coleções virtualmente de todos os ângulos para melhorar sua decisão de compra.</p>
+        				</span>
+      			</div>
+    		</div>
+    		<div class="component-22">
+      			<div class="component-16-child">
+      			</div>
+      			<div class="privacidade-exclusividade-container">
+        				<span class="compras-virtuais-perfeitas-container1">
+          					<p class="alcance-global">
+            						<b>Integração perfeita com O2O</b>
+          					</p>
+          					<p class="alcance-global">
+            						<b>
+</b>
+            						<span>Integre facilmente seu Digital Twin com serviços de listagem, plataformas de comércio eletrônico, incorpore-o em um site ou conecte-o ao seu CRM.</span>
+          					</p>
+        				</span>
+      			</div>
+    		</div>
+  	</div>
+  	
+  	
+  	<style>
+		.desktop-3-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 1534px;
+  	height: 974px;
+  	object-fit: cover;
+}
+.kriar {
+  	position: absolute;
+  	top: 69px;
+  	left: 154px;
+  	font-size: 48px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	font-family: 'Hind Guntur';
+  	display: flex;
+  	align-items: center;
+  	width: 112px;
+  	height: 47px;
+}
+.tm {
+  	position: absolute;
+  	top: 55px;
+  	left: 266px;
+  	font-size: 15px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+}
+.solues {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 203px;
+}
+.solues-wrapper {
+  	width: 221px;
+  	position: relative;
+  	height: 45px;
+}
+.solues1 {
+  	position: relative;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+}
+.solues-container {
+  	align-self: stretch;
+  	height: 57px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+}
+.frame-wrapper {
+  	align-self: stretch;
+  	border-radius: 8px 8px 0px 0px;
+  	background-color: #fff;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: center;
+  	padding: 6px 0px 6px 26px;
+}
+.frame-container {
+  	align-self: stretch;
+  	background-color: #fff;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: center;
+  	padding: 6px 0px 6px 26px;
+  	margin-top: -100px;
+  	position: relative;
+}
+.frame-wrapper2 {
+  	align-self: stretch;
+  	border-radius: 0px 0px 8px 8px;
+  	background-color: #fff;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: center;
+  	padding: 6px 0px 6px 26px;
+  	margin-top: -100px;
+  	position: relative;
+}
+.instance-parent {
+  	align-self: stretch;
+  	height: 69px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	opacity: 0;
+  	color: #000;
+}
+.frame-parent {
+  	position: absolute;
+  	top: 71px;
+  	left: 309px;
+  	width: 122px;
+  	height: 35px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 17px;
+  	font-size: 24px;
+  	font-family: 'Hind Guntur';
+}
+.recursos {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 141px;
+  	height: 56px;
+}
+.recursos-wrapper {
+  	width: 141px;
+  	position: relative;
+  	height: 56px;
+}
+.recursos1 {
+  	width: 248px;
+  	position: relative;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	height: 67px;
+  	flex-shrink: 0;
+}
+.recursos-container {
+  	align-self: stretch;
+  	border-radius: 8px 8px 0px 0px;
+  	background-color: #fff;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 0px 0px 0px 12px;
+}
+.recursos-frame {
+  	align-self: stretch;
+  	background-color: #fff;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 0px 0px 0px 12px;
+  	margin-top: -100px;
+  	position: relative;
+}
+.recursos-wrapper2 {
+  	align-self: stretch;
+  	border-radius: 0px 0px 8px 8px;
+  	background-color: #fff;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 0px 0px 0px 12px;
+  	margin-top: -100px;
+  	position: relative;
+}
+.instance-group {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	opacity: 0;
+  	color: #000;
+}
+.frame-group {
+  	position: absolute;
+  	top: 63px;
+  	left: 491px;
+  	width: 118px;
+  	height: 38px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 4px;
+  	font-size: 24px;
+  	font-family: 'Hind Guntur';
+}
+.empresa {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 128px;
+}
+.empresa-wrapper {
+  	width: 128px;
+  	position: relative;
+  	height: 45px;
+}
+.empresa1 {
+  	width: 244px;
+  	position: relative;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	flex-shrink: 0;
+}
+.empresa-container {
+  	align-self: stretch;
+  	border-radius: 8px 8px 0px 0px;
+  	background-color: #fff;
+  	height: 71px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 0px 12px;
+  	box-sizing: border-box;
+}
+.empresa-frame {
+  	align-self: stretch;
+  	background-color: #fff;
+  	height: 71px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 0px 12px;
+  	box-sizing: border-box;
+  	margin-top: -100px;
+  	position: relative;
+}
+.empresa-wrapper1 {
+  	align-self: stretch;
+  	border-radius: 0px 0px 8px 8px;
+  	background-color: #fff;
+  	height: 71px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 0px 12px;
+  	box-sizing: border-box;
+  	margin-top: -100px;
+  	position: relative;
+}
+.frame-parent1 {
+  	position: absolute;
+  	top: 68px;
+  	left: 669px;
+  	width: 121px;
+  	height: 45px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 23px;
+  	font-size: 24px;
+  	font-family: 'Hind Guntur';
+}
+.planos {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	left: 0%;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+}
+.component-2 {
+  	position: absolute;
+  	top: 68px;
+  	left: 1072px;
+  	width: 70px;
+  	height: 44px;
+  	font-size: 24px;
+  	font-family: 'Hind Guntur';
+}
+.log-in {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 134px;
+  	height: 43px;
+}
+.log-in-wrapper {
+  	width: 134px;
+  	position: relative;
+  	height: 43px;
+}
+.log-in1 {
+  	width: 252px;
+  	position: relative;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	height: 73px;
+  	flex-shrink: 0;
+}
+.log-in-container {
+  	align-self: stretch;
+  	border-radius: 8px 8px 0px 0px;
+  	background-color: #fff;
+  	height: 73px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 0px 14px;
+  	box-sizing: border-box;
+}
+.log-in-frame {
+  	align-self: stretch;
+  	background-color: #fff;
+  	height: 73px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 0px 14px;
+  	box-sizing: border-box;
+  	margin-top: -100px;
+  	position: relative;
+}
+.log-in-wrapper1 {
+  	align-self: stretch;
+  	border-radius: 0px 0px 8px 8px;
+  	background-color: #fff;
+  	height: 73px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 0px 14px;
+  	box-sizing: border-box;
+  	margin-top: -100px;
+  	position: relative;
+}
+.frame-parent2 {
+  	position: absolute;
+  	top: 68px;
+  	left: 1218px;
+  	width: 93px;
+  	height: 34px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 17px;
+  	font-size: 24px;
+  	font-family: 'Hind Guntur';
+}
+.desktop-3-item {
+  	position: absolute;
+  	top: 124px;
+  	left: 153px;
+  	border-top: 2px solid rgba(255, 255, 255, 0.36);
+  	box-sizing: border-box;
+  	width: 1196px;
+  	height: 2px;
+}
+.transformando-negcios-com {
+  	position: absolute;
+  	top: 267px;
+  	left: 112px;
+  	font-size: 84px;
+  	letter-spacing: 0.01em;
+  	display: inline-block;
+  	font-family: Hahmlet;
+  	width: 1018px;
+}
+.component-5-child {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	border-radius: 18px;
+  	background-color: #000;
+}
+.agende-uma-demonstrao {
+  	position: absolute;
+  	top: 21.41%;
+  	left: 9%;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+}
+.component-5 {
+  	position: absolute;
+  	top: 682px;
+  	left: 128px;
+  	border-radius: 18px;
+  	border: 3px solid #fff;
+  	box-sizing: border-box;
+  	width: 306px;
+  	height: 68px;
+  	font-family: 'Hind Guntur';
+}
+.experincias-virtuais-enriquec {
+  	position: absolute;
+  	top: 1041px;
+  	left: 321px;
+  	font-size: 48px;
+  	letter-spacing: 0.01em;
+  	font-family: Hanuman;
+  	color: #000;
+  	text-align: center;
+}
+.desktop-3-inner {
+  	position: absolute;
+  	top: 2321px;
+  	left: -42px;
+  	width: 1575px;
+  	height: 1352px;
+  	object-fit: cover;
+}
+.rectangle-div {
+  	position: absolute;
+  	top: 2321px;
+  	left: 0px;
+  	background-color: rgba(0, 0, 0, 0.61);
+  	width: 1533px;
+  	height: 2027px;
+}
+.rectangle-icon {
+  	position: absolute;
+  	top: 2602px;
+  	left: 136px;
+  	border-radius: 20px;
+  	width: 1252px;
+  	height: 706px;
+  	object-fit: cover;
+}
+.como-este-smart {
+  	position: absolute;
+  	top: 2426px;
+  	left: 167px;
+  	font-size: 40px;
+  	letter-spacing: 0.01em;
+  	display: inline-block;
+  	font-family: 'Kaisei Tokumin';
+  	text-align: center;
+  	width: 1200px;
+  	height: 124px;
+}
+.desktop-3-child1 {
+  	position: absolute;
+  	top: 4348px;
+  	left: 0px;
+  	background-color: #1f2123;
+  	width: 1533px;
+  	height: 632px;
+}
+.tm1 {
+  	position: absolute;
+  	top: 4399px;
+  	left: 220px;
+  	font-size: 15px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 22px;
+}
+.solues6 {
+  	position: absolute;
+  	top: 4486px;
+  	left: 50px;
+  	font-size: 32px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 128px;
+}
+.istaging {
+  	position: absolute;
+  	top: 4399px;
+  	left: 34px;
+  	font-size: 48px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	font-family: 'Hind Guntur';
+  	display: flex;
+  	align-items: center;
+  	width: 176px;
+  	height: 66px;
+}
+.servios-ao-cliente {
+  	position: absolute;
+  	top: 4547px;
+  	left: 50px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 278px;
+}
+.gmeos-digitais {
+  	position: absolute;
+  	top: 4591px;
+  	left: 50px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 144px;
+}
+.site-espacial {
+  	position: absolute;
+  	top: 4635px;
+  	left: 50px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 112px;
+}
+.shopping-virtual {
+  	position: absolute;
+  	top: 4679px;
+  	left: 50px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 149px;
+}
+.aprendizagem-e-treinamento {
+  	position: absolute;
+  	top: 4723px;
+  	left: 50px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 265px;
+}
+.recursos5 {
+  	position: absolute;
+  	top: 4486px;
+  	left: 409px;
+  	font-size: 32px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 128px;
+}
+.histrias-de-clientes {
+  	position: absolute;
+  	top: 4547px;
+  	left: 409px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 182px;
+}
+.palestras-da-istaging {
+  	position: absolute;
+  	top: 4591px;
+  	left: 409px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 186px;
+}
+.blog {
+  	position: absolute;
+  	top: 4635px;
+  	left: 409px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 41px;
+}
+.espa-de-mercado {
+  	position: absolute;
+  	top: 4679px;
+  	left: 409px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 176px;
+}
+.companhia {
+  	position: absolute;
+  	top: 4486px;
+  	left: 649px;
+  	font-size: 32px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 163px;
+}
+.sobre-ns {
+  	position: absolute;
+  	top: 4547px;
+  	left: 649px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 92px;
+}
+.fale-conosco {
+  	position: absolute;
+  	top: 4591px;
+  	left: 649px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 117px;
+}
+.vagas {
+  	position: absolute;
+  	top: 4635px;
+  	left: 649px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 55px;
+}
+.line-div {
+  	position: absolute;
+  	top: 4811px;
+  	left: 119px;
+  	border-top: 2px solid rgba(255, 255, 255, 0.36);
+  	box-sizing: border-box;
+  	width: 1214px;
+  	height: 2px;
+}
+.desktop-3-child2 {
+  	position: absolute;
+  	top: 4481px;
+  	left: 1170px;
+  	border-radius: 13px;
+  	background-color: #000;
+  	border: 1px solid #fff;
+  	box-sizing: border-box;
+  	width: 188px;
+  	height: 57px;
+}
+.portugus {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+}
+.portugus-wrapper {
+  	width: 109px;
+  	position: relative;
+  	height: 38px;
+}
+.portugus1 {
+  	position: relative;
+  	letter-spacing: 0.02em;
+  	line-height: 160.01%;
+  	font-weight: 500;
+}
+.portugus-container {
+  	align-self: stretch;
+  	border-radius: 0px 0px 14px 14px;
+  	background-color: rgba(11, 11, 11, 0.94);
+  	height: 53px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 0px 0px 0px 12px;
+  	box-sizing: border-box;
+}
+.instance-wrapper {
+  	width: 5px;
+  	height: 4px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 10px 5px 0px;
+  	box-sizing: border-box;
+  	opacity: 0;
+}
+.frame-parent3 {
+  	position: absolute;
+  	top: 4494px;
+  	left: 1197px;
+  	width: 110px;
+  	height: 32px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	font-size: 24px;
+}
+.agende-uma-demostrao {
+  	position: absolute;
+  	top: 4041px;
+  	left: 417px;
+  	font-size: 40px;
+  	letter-spacing: 0.01em;
+  	font-family: Gayathri;
+}
+.pronto-para-ver {
+  	position: absolute;
+  	top: 4090px;
+  	left: 260px;
+  	font-size: 24px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	font-family: 'Hind Guntur';
+  	text-align: center;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 911px;
+}
+.agende-uma-demonstrao1 {
+  	position: absolute;
+  	top: 24.64%;
+  	left: 9%;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+}
+.component-7 {
+  	position: absolute;
+  	top: 4166px;
+  	left: 557px;
+  	border-radius: 18px;
+  	border: 3px solid #fff;
+  	box-sizing: border-box;
+  	width: 306px;
+  	height: 75px;
+  	font-family: 'Hind Guntur';
+}
+.perguntas-frequentes {
+  	position: absolute;
+  	top: 3372px;
+  	left: 129px;
+  	font-size: 36px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	font-family: 'Hind Guntur';
+}
+.o-que-posso {
+  	position: absolute;
+  	top: 3466px;
+  	left: 129px;
+  	font-size: 32px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	font-family: 'Hind Guntur';
+}
+.quanto-tempo-leva {
+  	position: absolute;
+  	top: 3552px;
+  	left: 129px;
+  	font-size: 32px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	font-family: 'Hind Guntur';
+}
+.que-tipo-de {
+  	position: absolute;
+  	top: 3638px;
+  	left: 129px;
+  	font-size: 32px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	font-family: 'Hind Guntur';
+}
+.como-posso-editar {
+  	position: absolute;
+  	top: 3724px;
+  	left: 129px;
+  	font-size: 32px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	font-family: 'Hind Guntur';
+}
+.tudo-pode-ser {
+  	position: absolute;
+  	top: 3810px;
+  	left: 130px;
+  	font-size: 32px;
+  	letter-spacing: 0.01em;
+  	font-weight: 500;
+  	font-family: 'Hind Guntur';
+}
+.desktop-3-child3 {
+  	position: absolute;
+  	top: 1157px;
+  	left: 105px;
+  	width: 657px;
+  	height: 316px;
+  	object-fit: cover;
+}
+.desktop-3-child4 {
+  	position: absolute;
+  	top: 1473px;
+  	left: 762px;
+  	width: 658px;
+  	height: 316px;
+  	object-fit: cover;
+}
+.desktop-3-child5 {
+  	position: absolute;
+  	top: 1783px;
+  	left: 105px;
+  	width: 656px;
+  	height: 316px;
+  	object-fit: cover;
+}
+.component-16-child {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	background-color: rgba(0, 0, 0, 0.68);
+}
+.alcance-global {
+  	margin: 0;
+}
+.compras-virtuais-perfeitas-container1 {
+  	width: 100%;
+}
+.compras-virtuais-perfeitas-container {
+  	position: absolute;
+  	height: 75.25%;
+  	width: 91.36%;
+  	top: 10.51%;
+  	left: 3.57%;
+  	letter-spacing: 0.01em;
+  	display: flex;
+  	align-items: center;
+}
+.component-16 {
+  	position: absolute;
+  	top: 1157px;
+  	left: 764px;
+  	width: 656px;
+  	height: 316px;
+  	text-align: center;
+  	font-size: 24px;
+  	font-family: 'Istok Web';
+}
+.convenincia-e-acessibilidade-container {
+  	position: absolute;
+  	height: 78.13%;
+  	width: 92.32%;
+  	top: 10.85%;
+  	left: 3.84%;
+  	letter-spacing: 0.01em;
+  	display: flex;
+  	align-items: center;
+}
+.component-19 {
+  	position: absolute;
+  	top: 1473px;
+  	left: 105px;
+  	width: 656px;
+  	height: 310px;
+  	text-align: center;
+  	font-size: 24px;
+  	font-family: 'Istok Web';
+}
+.privacidade-exclusividade-container {
+  	position: absolute;
+  	height: 76.96%;
+  	width: 87.51%;
+  	top: 4.75%;
+  	left: 6.17%;
+  	letter-spacing: 0.01em;
+  	display: flex;
+  	align-items: center;
+}
+.component-22 {
+  	position: absolute;
+  	top: 1783px;
+  	left: 761px;
+  	width: 659px;
+  	height: 316px;
+  	text-align: center;
+  	font-size: 24px;
+  	font-family: 'Istok Web';
+}
+.desktop-3 {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fff;
+  	height: 4980px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 20px;
+  	color: #fff;
+  	font-family: Hind;
+}
+
+
+	</style>
+  	
+</body>
+</html>
